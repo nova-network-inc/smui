@@ -5,7 +5,11 @@ Smart Contract UI for developers. Forked from https://github.com/MartinPham/smar
 
 ```console
 git clone https://github.com/nova-network-inc/smui.git
+```
+```console
 cd smui
+```
+```console
 yarn install'
 ```
 
@@ -13,5 +17,7 @@ yarn install'
 
 ```console
 yarn build
+```
+```console
 yarn start
 ```
