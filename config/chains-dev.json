@@ -1,0 +1,48 @@
+[
+  {
+  "name": "Nova Network",
+  "chain": "NNW",
+  "icon": "novanetwork",
+  "rpc": [
+    "https://rpc.novanetwork.io:9070"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Supernova",
+    "symbol": "SNT",
+    "decimals": 18
+  },
+  "infoURL": "https://novanetwork.io",
+  "shortName": "nnw",
+  "chainId": 87,
+  "networkId": 87,
+  "explorers": [{
+    "name": "novanetwork",
+    "url": "https://explorer.novanetwork.io",
+    "standard": "EIP3091"
+  }]
+},
+{
+  "name": "Nebula Testnet",
+  "chain": "NTN",
+  "icon": "nebulatestnet",
+  "rpc": [
+    "https://testnet.rpc.novanetwork.io:9070"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Nebula X",
+    "symbol": "NBX",
+    "decimals": 18
+  },
+  "infoURL": "https://novanetwork.io",
+  "shortName": "ntn",
+  "chainId": 107,
+  "networkId": 107,
+  "explorers": [{
+    "name": "nebulatestnet",
+    "url": "https://explorer.novanetwork.io",
+    "standard": "EIP3091"
+  }]
+}
+]
