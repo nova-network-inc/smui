@@ -44,5 +44,28 @@
     "url": "https://explorer.novanetwork.io",
     "standard": "EIP3091"
   }]
+},
+{
+  "name": "Fantom Opera",
+  "chain": "FTM",
+  "icon": "fantomopera",
+  "rpc": [
+    "https://rpc.ftm.tools/"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Fantom Token",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "infoURL": "https://fantom.foundation",
+  "shortName": "fnt",
+  "chainId": 250,
+  "networkId": 250,
+  "explorers": [{
+    "name": "ftmscan",
+    "url": "https://ftmscan.com/",
+    "standard": "EIP3091"
+  }]
 }
 ]

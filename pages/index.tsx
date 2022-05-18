@@ -826,7 +826,7 @@ export default function Page() {
 					md={6}
 					lg={7}
 					sx={{
-						backgroundImage: 'url(https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg)',
+						backgroundImage: '/images/bgLQ.jpg',
 						backgroundRepeat: 'no-repeat',
 						backgroundColor: (t) =>
 							t.palette.mode === 'light' ? t.palette.grey[50] : t.palette.grey[900],
