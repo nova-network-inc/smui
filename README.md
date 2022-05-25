@@ -12,7 +12,7 @@ cd smui
 ```
 3) Install dependencies.
 ```console
-yarn install'
+yarn install
 ```
 
 # Running on localhost:3000
