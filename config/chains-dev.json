@@ -46,6 +46,29 @@
   }]
 },
 {
+  "name": "Ethereum Classic",
+  "chain": "ETC",
+  "icon": "ethereumclassic",
+  "rpc": [
+    "https://www.ethercluster.com/etc"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "decimals": 18
+  },
+  "infoURL": "https://ethereumclassic.org",
+  "shortName": "etc",
+  "chainId": 61,
+  "networkId": 61,
+  "explorers": [{
+    "name": "ethereumclassic",
+    "url": "https://blockscout.com/etc/mainnet",
+    "standard": "EIP3091"
+  }]
+},
+{
   "name": "Fantom Opera",
   "chain": "FTM",
   "icon": "fantomopera",
